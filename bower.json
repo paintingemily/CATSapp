@@ -1,0 +1,19 @@
+{
+	"name": "CATS",
+	"main": "index.js",
+	"version": "0.0.0",
+	"authors": [
+		"(Emily Painter <epainter@deloitte.com)"
+	],
+	"description": "An Angular voting app for cat photos",
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+	}
+}
